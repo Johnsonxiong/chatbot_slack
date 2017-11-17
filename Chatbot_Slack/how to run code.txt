@@ -1,0 +1,15 @@
+1. change to the this folder: 
+$ cd /Users/Johnson/Documents/Project/Chatbot_Slack
+
+2. $ source source.sh
+
+3. $ python3 discover.py 
+to check it works fine
+
+johnsoncb1
+xoxb-247635880038-4tWcKXqUFhuUxc2dbQ6H4hWG
+True
+U79JPRW14
+
+
+4. 
